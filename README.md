@@ -1,7 +1,7 @@
 JKru
 
 I like coding
-And music
-And some other stuff
+and music
+and some other stuff
 
 :)
